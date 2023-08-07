@@ -1,1 +1,2 @@
-U	0x02-shell_redirections/4-lastlines
+#!/bin/bash
+head -3 iacta | tail -1
