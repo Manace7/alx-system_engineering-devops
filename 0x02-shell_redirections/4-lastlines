@@ -1,2 +1,2 @@
-#!/bin/bash
-tail -m 10 /etc/passwd
+[master f2cb25a] 4-lastlines
+ 2 files changed, 5 insertions(+), 11 deletions(-)
