@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 [master 49a3e5e] Task 7
+=======
+#!/bin/bash
+echo 'Best School' > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\)
+>>>>>>> 3673d7c0b52e8ad2ca9c9f4ad6b129fd1aebca30
