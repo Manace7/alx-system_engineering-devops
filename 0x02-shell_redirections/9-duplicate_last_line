@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 tail -n 1 < iacta >> iacta
+=======
+#!/bin/bash
+tail -n 1 < iacta >> iacta
+>>>>>>> f09933b4a68f16fd18c76e5c7554d7fdc82a5027
