@@ -1,3 +1,2 @@
-[master e204c99] Task 8
- 2 files changed, 1 insertion(+), 4 deletions(-)
- create mode 100755 0x02-shell_redirections/8-cwd_state
+#!/bin/bash
+ls -la > ls_cwd_content
