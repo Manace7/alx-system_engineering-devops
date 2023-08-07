@@ -1,4 +1,2 @@
-[master c376f65] Task 7
- 3 files changed, 1 insertion(+), 1 deletion(-)
- create mode 100644 0x02-shell_redirections/.6-third_line.swp
- create mode 100755 0x02-shell_redirections/7-file
+#!/bin/bash
+echo 'Best School' > \\\*\\\\'\"Best School\"\\'"\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\)
