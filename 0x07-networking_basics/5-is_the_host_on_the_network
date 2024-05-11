@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#  a Bash script that display listening ports:
+# a Bash script that display listening ports:
 # That only shows listening ports
 # That shows the PID and name of the progarm to which each sockets belongs
 
