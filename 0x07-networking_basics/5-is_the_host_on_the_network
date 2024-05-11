@@ -2,5 +2,6 @@
 # a Bash script that display listening ports:
 # That only shows listening ports
 # That shows the PID and name of the progarm to which each sockets belongs
+# Ping the IP 5 times
 
 netstart -p -l
